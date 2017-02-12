@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>CINDYSYM</Machine>
+    <WindowsUser>liufs_000</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>55EF8168B355ACE5A04DB427BCA215F8E8931DB6CB2F276EC4ABD8638A279455</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>8fda0661-a915-4360-bee4-f15225bf92c1_1.0.0.0_neutral__mk220h5tx6mvt</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>8fda0661-a915-4360-bee4-f15225bf92c1_mk220h5tx6mvt!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>8fda0661-a915-4360-bee4-f15225bf92c1</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=fcindy</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\liufs_000\Documents\Visual Studio 2012\Projects\WatchMovie\WatchMovie\WatchMovie\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-19T18:32:26.000</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\liufs_000\Documents\Visual Studio 2012\Projects\WatchMovie\WatchMovie\WatchMovie\bin\Debug\WatchMovie.exe">
+      <PackagePath>WatchMovie.exe</PackagePath>
+      <Modified>2013-07-19T18:32:22.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\liufs_000\Documents\Visual Studio 2012\Projects\WatchMovie\WatchMovie\WatchMovie\bin\Debug\WatchMovie.pdb">
+      <PackagePath>WatchMovie.pdb</PackagePath>
+      <Modified>2013-07-19T18:32:22.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\liufs_000\Documents\Visual Studio 2012\Projects\WatchMovie\WatchMovie\WatchMovie\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-16T03:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\liufs_000\Documents\Visual Studio 2012\Projects\WatchMovie\WatchMovie\WatchMovie\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-16T03:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\liufs_000\Documents\Visual Studio 2012\Projects\WatchMovie\WatchMovie\WatchMovie\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-16T03:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\liufs_000\Documents\Visual Studio 2012\Projects\WatchMovie\WatchMovie\WatchMovie\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-16T03:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\liufs_000\Documents\Visual Studio 2012\Projects\WatchMovie\WatchMovie\WatchMovie\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2013-07-19T15:23:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\liufs_000\Documents\Visual Studio 2012\Projects\WatchMovie\WatchMovie\WatchMovie\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2012-06-26T23:19:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\liufs_000\Documents\Visual Studio 2012\Projects\WatchMovie\WatchMovie\WatchMovie\bin\Debug\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+      <Modified>2013-07-19T15:23:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\liufs_000\Documents\Visual Studio 2012\Projects\WatchMovie\WatchMovie\WatchMovie\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2013-07-19T18:32:24.000</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
